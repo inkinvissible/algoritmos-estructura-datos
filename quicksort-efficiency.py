@@ -1,3 +1,4 @@
+# Para ver visualmente lo que hace el algoritmo, dirigirse a https://pythontutor.com/render.html#mode=display
 def quicksort(arr):
     # Caso base: Si la lista tiene 0 o 1 elemento, ya está ordenada.
     if len(arr) <= 1:
